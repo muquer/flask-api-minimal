@@ -5,5 +5,9 @@ Flask==2.0.2
 itsdangerous==2.0.1
 Jinja2==3.0.2
 MarkupSafe==2.0.1
+pip==21.2.4
+python-dotenv==0.19.2
+setuptools==58.0.4
 Werkzeug==2.0.2
+wheel==0.37.0
 wincertstore==0.2
